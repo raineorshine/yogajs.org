@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "author": {
+    "name": "Raine Revere",
+    "email": "raineorshine@gmail.com",
+    "url": "https://github.com/raineorshine"
+  },
+  "scripts": {
+    "deploy": "surge . yogajs.org"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^13.0.1",
+    "marked": "^0.3.5",
+    "surge": "^0.18.0"
+  }
+}

@@ -1,0 +1,54 @@
+body {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 8%;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+}
+
+input {
+  width: 500px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+button {
+  font-size: 16px;
+  padding: 5px;
+}
+
+h1, h2 {
+  vertical-align: middle;
+  margin-top: 0px;
+  font-weight: 300;
+}
+
+h1 {
+  font-size: 64px;
+}
+
+h2 {
+  color: #AAA;
+  font-size: 24px;
+}
+
+h3 {
+  font-weight: normal;
+  color: #AAA;
+  font-size: 18px;
+}
+
+.center {
+  text-align: center;
+}
+
+.footer {
+  color: #AAA;
+  text-transform: uppercase;
+  font-size: 12px;
+}
